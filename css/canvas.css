@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html, body {
+    height: 100%;
+    width: 100%;
+}
+#canvas-1 {
+    background-color: #001022;
+}
+#so-button {
+    bottom: 20px;
+    left: 20px;
+    position: absolute;
+}
+#so-button button {
+    padding: 5px;
+}
